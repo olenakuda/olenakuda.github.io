@@ -2,3 +2,9 @@
 /shelf/
 /workspace.xml
 .idea
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

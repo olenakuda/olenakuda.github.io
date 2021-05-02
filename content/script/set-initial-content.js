@@ -1,10 +1,11 @@
 const keySkills = document.querySelector(`.keySkills`);
 
-const skills = [`Java 11`, `Spring Boot`, `Spring Data (JPA NoSQL)`,
-    `Spring Security`, `Spring Web`, `Linux`,
-    `GitHub`, `IntelliJ`, `JavaScript`, `CSS`, `HTML5`,
-    `Microservice architecture`, `JSON`,
-    `REST API`, `Lombok`, `Docker`, `Maven`, `TDD, JUnit, Mockito`]
+const skills = [`Java 11`, `Kotlin`, `Spring Boot`,
+    `Spring Data (JPA NoSQL)`, `Spring Security`, 
+    `Spring Web`, `Android`, `Linux`, `IntelliJ`,
+    `GitHub`, `JavaScript`, `CSS`, `HTML5`,
+    `Microservice architecture`, `JSON`, `REST API`, 
+    `Lombok`, `Docker`, `Maven`, `TDD`, `JUnit`, `Mockito`]
 
 
 function createInitialContent() {
