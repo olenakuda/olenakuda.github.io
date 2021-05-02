@@ -5,7 +5,7 @@ const setGermanContent = () => {
     educationTitle.textContent = `Ausbildung`;
 
     jobTitleSix.textContent = `Pensionsversicherungsanstalt`;
-    jobPositionSix.textContent = `September 2020 - jetzt Anwendungsprogrammiererin`;
+    jobPositionSix.textContent = `September 2020 - jetzt Softwareentwickler`;
     jobDescriptionSix.innerHTML = `Unterst\u00fctzung und Entwicklung bestehender Anwendungen<br>
                             Umsetzung neuer Konzepte<br>
                             Entwerfen und Implementieren neue funktionen<br>
@@ -37,11 +37,11 @@ const setGermanContent = () => {
                             Entwicklung von unterschiedlichen Projekten zur Unterst\u00fctzung von Jugendlichen`;
 
     courseCompany.textContent = `Everyone codes, Wien, \u00d6sterreich`;
-    courseTitle.textContent = `2019 - 2020 Programmieren in drei Phasen (Grundausbildung, Spezialisierungsphase, Projectphase) wurde unterrichtet und angewandt`;
-    courseDescription.innerHTML =`Java 11 (object oriented, abstraction, lambda expressions, streams), Linux, Git, GitHab, IntelliJ<br>
+    courseTitle.textContent = `2019 - 2020 Programmieren`;
+    courseDescription.innerHTML =`Java 11, Linux, Git, GitHab, IntelliJ<br>
                             Specializierung: Spring Framework, Boot, Web, Data (JPA NoSQL), Security<br>
-                            Soft-Skills: Kommunikationsskills, Teamf\u00e4higkeit<br>
-                            Learning how to learn`
+                            Soft-Skills: Kommunikationsskills, Teamf\u00e4higkeit`;
+
     universityTitleMaster.textContent = `Charkiw Nationale Wirtschaftsuniversit\u00e4t`;
     universityYearsMaster.textContent = `2005 - 2006 Wirtschaftskybernetik`;
     universitySpecialisationMaster.textContent = `Master, Wirtschaftskybernetik`;
