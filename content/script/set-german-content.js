@@ -51,7 +51,6 @@ const setGermanContent = () => {
 
     jogging.textContent = `Laufen`;
     games.textContent = `Brett/Karten Spiele`;
-    coding.textContent = `Programmieren`;
     cooking.textContent = `Kochen`;
     traveling.textContent = `Reisen`;
 

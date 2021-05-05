@@ -40,5 +40,4 @@ const universitySpecialisationBachelor = document.querySelector('#universitySpec
 const jogging = document.querySelector('#jogging');
 const games = document.querySelector('#games');
 const cooking = document.querySelector('#cooking');
-const coding = document.querySelector('#coding');
 const traveling = document.querySelector('#traveling');

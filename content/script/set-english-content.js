@@ -57,7 +57,6 @@ const setEnglishContent = () => {
 
     jogging.textContent = `Jogging`;
     games.textContent = `Board/Card games`;
-    coding.textContent = `Coding`;
     cooking.textContent = `Cooking`;
     traveling.textContent = `Traveling`;
 }
