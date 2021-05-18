@@ -6,11 +6,11 @@ const setEnglishContent = () => {
 
     jobTitleSix.textContent = `Pensionsversicherungsanstalt`;
     jobPositionSix.textContent = `September 2020 - now Software developer`;
-    jobDescriptionSix.innerHTML = `Support and development of the existing system<br>
-                        Implementation of new concepts and technologies<br>
+    jobDescriptionSix.innerHTML = `Maintenance and supporting the existing system,<br>
+                        including bug fixes and refactoring different modules<br>
                         Design and implement new features<br>
-                        Fix bugs reported and adapt to new environments<br>
-                        Review and refactor code`;
+                        Planned and executed test to insure code changes meet<br>
+                        requirements and specification`;
 
     jobTitleFive.textContent = `Maternity Leave`;
     jobPositionFive.textContent = `2017 - 2019`;
@@ -18,9 +18,9 @@ const setEnglishContent = () => {
 
     jobTitleFour.textContent = `Hotel Kaiserin Elisabeth GmbH & Co. KG`;
     jobPositionFour.textContent = `2014 - 2017 Service stuff`;
-    jobDescriptionFour.innerHTML = `Care of guests during the breakfast<br>
-                        Care of the bar<br>
-                        Warehousing<br>
+    jobDescriptionFour.innerHTML = `Perform work that is routine and organized<br>
+                        Provide personalized service to all guests<br>
+                        Care of the bar, Warehousing<br>
                         Merchandise managements`;
 
     jobTitleThree.textContent = `Maternity Leave`;
