@@ -14,9 +14,9 @@ const setEnglishContent = () => {
 
     jobTitleFive.textContent = `Maternity Leave`;
     jobPositionFive.textContent = `2017 - 2019`;
-    jobDescriptionFive.innerHTML = `Part-time job: Catering`;
+    jobDescriptionFive.innerHTML = ``;
 
-    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft m.b.H. & co. KG`;
+    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft GmbH & co. KG`;
     jobPositionFour.textContent = `2014 - 2017 Service stuff`;
     jobDescriptionFour.innerHTML = `Care of guests during the breakfast<br>
                         Care of the bar<br>
@@ -25,7 +25,7 @@ const setEnglishContent = () => {
 
     jobTitleThree.textContent = `Maternity Leave`;
     jobPositionThree.textContent = `2009 - 2014`;
-    jobDescriptionThree.innerHTML = ``;
+    jobDescriptionThree.innerHTML = `Part-time job: Catering`;
 
 
     jobTitleTwo.textContent = `Charkiv LTD Investment Consulting Company "Proconsul"`;

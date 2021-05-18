@@ -14,16 +14,16 @@ const setGermanContent = () => {
 
     jobTitleFive.textContent = `Karenz`;
     jobPositionFive.textContent = `2017 - 2019`;
-    jobDescriptionFive.innerHTML = `Teilzeitjob Catering`;
+    jobDescriptionFive.innerHTML = ``;
 
-    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft m.b.H. & co. KG`;
+    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft GmbH & co. KG`;
     jobPositionFour.textContent = `2014 - 2017 Servicemitarbeiterin`;
     jobDescriptionFour.innerHTML = `Betreuung der G\u00e4ste w\u00e4hrend des Fr\u00fchst\u00fccks und Bar sowie alle damit verbundene Aufgaben<br>
                             Die Lagerhaltung und eine angemessene Warenwirtschaft<br>`;
 
     jobTitleThree.textContent = `Karenz`;
     jobPositionThree.textContent = `2009 - 2014`;
-    jobDescriptionThree.innerHTML = ``;
+    jobDescriptionThree.innerHTML = `Teilzeitjob Catering`;
 
     jobTitleTwo.textContent = `Charkiv LTD Investment Consulting Company "Proconsul"`;
     jobPositionTwo.textContent = `2007 - 2009 Immobilienmarkt-Analytikerin`;
