@@ -16,7 +16,7 @@ const setGermanContent = () => {
     jobPositionFive.textContent = `2017 - 2019`;
     jobDescriptionFive.innerHTML = ``;
 
-    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft GmbH & co. KG`;
+    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth GmbH & Co. KG`;
     jobPositionFour.textContent = `2014 - 2017 Servicemitarbeiterin`;
     jobDescriptionFour.innerHTML = `Betreuung der G\u00e4ste w\u00e4hrend des Fr\u00fchst\u00fccks und Bar sowie alle damit verbundene Aufgaben<br>
                             Die Lagerhaltung und eine angemessene Warenwirtschaft<br>`;

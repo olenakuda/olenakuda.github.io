@@ -16,7 +16,7 @@ const setEnglishContent = () => {
     jobPositionFive.textContent = `2017 - 2019`;
     jobDescriptionFive.innerHTML = ``;
 
-    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth Betriebsgesellschaft GmbH & co. KG`;
+    jobTitleFour.textContent = `Hotel Kaiserin Elisabeth GmbH & Co. KG`;
     jobPositionFour.textContent = `2014 - 2017 Service stuff`;
     jobDescriptionFour.innerHTML = `Care of guests during the breakfast<br>
                         Care of the bar<br>
